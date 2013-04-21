@@ -1,0 +1,5 @@
+require_relative "lib/game"
+require_relative "lib/person"
+require_relative "lib/group"
+require_relative "lib/location"
+require_relative "lib/capital"
